@@ -77,7 +77,7 @@ const Header = () => {
             {location.pathname === "/" ? "Get Started" : "Learn More"}
           </button>
         </div>
-        
+
           <div className="w-[50%] relative">
             <Slider />
           </div>
